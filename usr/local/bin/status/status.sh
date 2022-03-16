@@ -1,9 +1,9 @@
+#!/bin/bash
+
 # Shiori Server Status
 # Version 1.1 (2022-03-07)
 # Copyright (c) 2022 Sora Arakawa
 # Licensed under the MIT License
-
-#!/bin/bash
 
 {
 	cat <<-EOS
