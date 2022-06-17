@@ -1,24 +1,12 @@
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
-body {
-	font-family: monospace;
+#section {
+  margin-top: -20px;
 }
 
-main {
-	padding: 30px;
-}
-
-main p {
-	padding-bottom: 20px;
-}
-
-main a {
-	color: #1976D2;
-}
-
-main a:hover {
-	color: #0D47A1;
+.message-body {
+  font-family: monospace;
 }
